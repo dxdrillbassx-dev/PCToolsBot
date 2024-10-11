@@ -12,8 +12,8 @@ from pySmartDL import SmartDL
 from telebot import types
 from telebot import apihelper
 
-my_id = 5379654051
-bot_token = '7710876551:AAHNcK2ZPT7CJDSeGxoNCA7YP297KQUaoyM'
+my_id = 1234567890
+bot_token = 'TOKEN'
 bot = telebot.TeleBot(bot_token)
 
 class User:
